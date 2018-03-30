@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 -LVS-LiveVoteSystem-PHPSYSTEM-
 ======================
 
-### Requirements
+### * Requirements
 
 ```
 * Server
